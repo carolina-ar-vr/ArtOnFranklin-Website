@@ -6,8 +6,6 @@ description: "This is meta description."
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Jason Lord has been making art, performing, and teaching the arts to elementary, middle, and high school students in Durham and Orange counties since 1996, moving from music and theater in his early career into arts integration and visual art more recently. Currently, he's taking a hiatus from teaching to pursue a Studio Art degree at UNC.
+ 
+Downtown's Dead is made of cyanotype prints of street images and papers found on daily walks during the Covid-19 pandemic.  It's a reflection on legacy and how we pass knowledge, policy, infrastructure, and the natural world on to next generations.

@@ -6,8 +6,4 @@ description: "This is meta description."
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Photography was an outlet that allowed me to cope with the sadness and loneliness I experienced during the social isolation that was mandated on all of us to keep each other safe. I’m currently working on self-portraits due to the social limitations of the pandemic but also in an act of finding my self-worth: that I am worthy of being in front of the lens and from my creativity and two hands I can create something beautiful and cause an emotional response in people when they look at my art. Being only 20 years old and experimenting with photography for only a year I will continue to tirelessly develop my own style and find my voice to ultimately help others find their own. 
