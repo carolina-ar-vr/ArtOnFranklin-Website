@@ -53,7 +53,13 @@
       <div class="row">
         <div class="col-lg-10 mx-auto text-center">
           {{ with site.Data.homepage.about }}
-          <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
+
+          <p class="font-secondary lead text-dark">{{.content | markdownify}}</p> 
+          <div class="client-logo-slider align-items-center">
+            <a href="https://carvr.org/" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/images/clients-logo/carvr-logo.png" alt="client-logo" ></a>
+            <a href="http://artseverywhere.unc.edu/" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/images/clients-logo/art-e-logo.png" alt="client-logo" ></a>
+            <a href="https://downtownchapelhill.com/" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="/images/clients-logo/xdch-logo.png" alt="client-logo" ></a>
+          </div>
           {{ if .button.enable }}
           {{ with .button }}
           <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>

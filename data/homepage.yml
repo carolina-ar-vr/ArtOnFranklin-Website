@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Thank you for using Arts on Everywhere! This web-based application is a collaboration between CARVR and Arts Everywhere. Our mission is to help small businesses on Franklin Street get more foot traffic and what better way to do that then to create an exciting augmented reality experience! How does it work? Find a participating business with our poster and follow the instructions! All you need is your smartphone! Try it out today!"
+  content : "Thank you for using ARt on Franklin! This web-based application is a collaboration between CARVR and Arts Everywhere. Our mission is to help small businesses on Franklin Street get more foot traffic and what better way to do that than to create an exciting augmented reality experience! How does it work? Find a participating business with our poster and follow the instructions! All you need is your smartphone! Try it out today!"
   button:
     enable : false
     label : "know more"
@@ -123,16 +123,7 @@ testimonial:
 # client logo slider
 clients_logo_slider:
   enable : true
-  item:
-    - logo : "images/clients-logo/art-e-logo.png"
-      URL : "http://artseverywhere.unc.edu/"
-      
-    - logo : "images/clients-logo/xdch-logo.png"
-      URL : "https://downtownchapelhill.com/"
-      
-    - logo : "images/clients-logo/carvr-logo.png"
-      URL : "https://carvr.org/"
-      
+  item:  
     - logo : "images/clients-logo/yopo-logo.png"
       URL : "https://www.yogurtpump.com/index.html"
     
@@ -166,5 +157,5 @@ clients_logo_slider:
 # blog
 artists:
   enable : true
-  title : "Contributer Bios"
+  title : "Artists"
   # blog post comes from "content/blog" folder

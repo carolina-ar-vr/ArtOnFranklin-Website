@@ -25,7 +25,10 @@ team:
       designation : "Project Manager"
       
     - title : "Jiayi Xu"
-      designation : "Product Manager"
+      designation : "Project Manager"
+
+    - title : "Micah Haycraft"
+      designation : "Lead Developer"
       
     - title : "Brandon Clark"      
       designation : "Mentor"
@@ -34,9 +37,6 @@ team:
       designation : "Developer"
 
     - title : "Caroline Felman"
-      designation : "Developer"
-
-    - title : "Micah Haycraft"
       designation : "Developer"
 
     - title : "Tianyi Peng"
