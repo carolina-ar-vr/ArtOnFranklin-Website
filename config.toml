@@ -5,6 +5,10 @@ theme = "kross"
 
 disableAliases = true
 
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+
 # css plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
