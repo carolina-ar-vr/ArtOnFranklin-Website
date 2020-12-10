@@ -33,13 +33,13 @@ link = "plugins/google-map/map.js"
 
 # menu
 [[menu.main]]
-URL = "about"
+URL = "team"
 name = "Team"
 weight = 2
 
 [[menu.main]]
-URL = "blog"
-name = "BIOs"
+URL = "artists"
+name = "Artists"
 weight = 1
 
 [[menu.main]]

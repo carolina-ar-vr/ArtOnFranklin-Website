@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Artists"
 description: "This is meta description."
 draft: false
 ---

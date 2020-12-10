@@ -164,7 +164,7 @@ clients_logo_slider:
       URL : "https://imbibenc.com/"
 
 # blog
-blog:
+artists:
   enable : true
   title : "Contributer Bios"
   # blog post comes from "content/blog" folder

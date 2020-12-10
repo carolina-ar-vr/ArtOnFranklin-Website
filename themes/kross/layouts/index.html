@@ -257,15 +257,15 @@
   <!-- /client logo slider -->
   {{ end }}
 
-  {{ if site.Data.homepage.blog.enable }}
+  {{ if site.Data.homepage.artists.enable }}
   <!-- blog -->
   <section class="section">
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <h2 class="section-title">{{site.Data.homepage.blog.title | markdownify }}</h2>
+          <h2 class="section-title">{{site.Data.homepage.artists.title | markdownify }}</h2>
         </div>
-        {{ range first 5 (where .Site.RegularPages "Section" "blog")}}
+        {{ range first 5 (where .Site.RegularPages "Section" "artists")}}
         {{ .Render "post" }}
         {{ end }}
       </div>
