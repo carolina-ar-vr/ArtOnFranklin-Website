@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on ARt On Franklin!</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blog on ARt On Franklin!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Dec 2020 12:14:34 +0600</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AhDream Smith</title>
+      <link>http://example.org/blog/ahdream_smith/</link>
+      <pubDate>Wed, 09 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>http://example.org/blog/ahdream_smith/</guid>
+      <description>“A group of artists can make art, but only a company can move it forwards.” -Ariane Mnouchkine.
+AhDream is a multi-disciplinary artist who is always exploring new ways and mediums to express herself. Previously, a New York based actor, she is currently training to receive her Masters of Fine Arts at the University of North Carolina -Chapel Hill’s Professional Actor Training Program and is also a resident actor at Playmakers Reparatory Company.</description>
+    </item>
+    
+    <item>
+      <title>Dominique Lomax</title>
+      <link>http://example.org/blog/dominique_lomax/</link>
+      <pubDate>Wed, 09 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>http://example.org/blog/dominique_lomax/</guid>
+      <description>20 Years old. Digital Artist, Hip-Hop Dancer. Self taught with Cinema 4D and Photoshop, trying to get better day by day.</description>
+    </item>
+    
+    <item>
+      <title>Jason E Lord</title>
+      <link>http://example.org/blog/jason_e_lord/</link>
+      <pubDate>Wed, 09 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>http://example.org/blog/jason_e_lord/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Kevin Duong</title>
+      <link>http://example.org/blog/kevin_duong/</link>
+      <pubDate>Wed, 09 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>http://example.org/blog/kevin_duong/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Peri Law</title>
+      <link>http://example.org/blog/01_peri_law/</link>
+      <pubDate>Wed, 09 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>http://example.org/blog/01_peri_law/</guid>
+      <description>Peri Law is originally from the suburbs of Charlotte, North Carolina and currently lives in Chapel Hill, North Carolina. She recently graduated from the University of North Carolina at Chapel Hill where she majored in studio art and art history. She also worked as a curatorial intern at the Ackland Art Museum.
+Her experience growing up was marked by regular trips to Durham, North Carolina to visit her Chinese grandmother, filled with traditional Chinese rituals and food, and bi-yearly trips to the English countryside to visit her English grandparents.</description>
+    </item>
+    
+  </channel>
+</rss>
