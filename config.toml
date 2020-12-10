@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "ARt On Franklin!"
 theme = "kross"
 
+disableAliases = true
 
 # css plugins
 [[params.plugins.css]]
