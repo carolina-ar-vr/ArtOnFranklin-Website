@@ -1,7 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "ARt On Franklin!"
 theme = "kross"
+
+disableAliases = true
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
 
 
 # css plugins
